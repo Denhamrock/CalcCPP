@@ -12,7 +12,7 @@ int main()
 	mul = '*';
 	div = '/';
 	wcome = "Welcome to C++ Calculator (Denhamrock)\n";
-	info = "Enter the Nuber to start then the operator. EG +, -, *, /,\n";
+	info = "Enter the Number to start then the operator. EG +, -, *, /,\n";
 	cout << wcome;
 	cout << info;
 	
